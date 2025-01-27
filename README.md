@@ -10,8 +10,8 @@
 
 ```
 
-### Project setup
-In the project directory, you can run:
+### Project Setup
+In the project directory, you run:
 
 ```
 npm install
@@ -19,6 +19,7 @@ npm install
 yarn install
 ```
 
+In two terminals:
 Run the WebSocket server 
 
 ```
