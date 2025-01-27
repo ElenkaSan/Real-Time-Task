@@ -35,3 +35,9 @@ npm start
 
 You should see once everything is running in the shell
 <img width="927" alt="Screenshot 2025-01-27 at 1 26 45 AM" src="https://github.com/user-attachments/assets/bed565f3-5e19-4cc3-b290-7e4cbbcb0b9a" />
+
+Run test 
+
+```
+npm test
+```
