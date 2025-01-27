@@ -1,4 +1,4 @@
-# Getting Started with Create React App 
+# Getting Started
 ### The WebSocket server is running on http://localhost:4000
 
 ```
