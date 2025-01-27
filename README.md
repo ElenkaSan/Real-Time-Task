@@ -26,7 +26,7 @@ node server.js
 ```
 The WebSocket server is running on http://localhost:4000 - you will see `Cannot GET /` -> it's correct, the WebSocket server logs a message like Client connected: <socket-id> you will see in the terminal after adding task will see `Task added: { text: "New Task", completed: false }` and etc.
 
-Second terminal -> 
+Second terminal -> [Real-Time-Task Collaboration React App](https://github.com/ElenkaSan/Real-Time-Task_ReactApp)
 Start your React app 
 
 ```
